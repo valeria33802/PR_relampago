@@ -1,6 +1,9 @@
 import express from "express";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { openSQL } from "./coneccion-sql.js";
+import sql from "mssql";
+import filtrarPDFsPorPalabra from "./leer-pdf.js"
 
 const app = express();
 
@@ -26,6 +29,24 @@ app.get("/", async (req, res) => {
 app.get("/login", async (req, res) => {
     try {
         res.sendFile(join(dir_name, "public", "login.html")); // Servir index.html estático
+    } catch (err) {
+        console.error(err);
+        res.status(500).send("Error al servir el archivo.");
+    }
+});
+
+app.post("/iniciar_sesion", async (req, res) => {
+    try {
+        res.sendFile(join(dir_name, "public", "index.html")); // Servir index.html estático
+    } catch (err) {
+        console.error(err);
+        res.status(500).send("Error al servir el archivo.");
+    }
+});
+
+app.get("/admin", async (req, res) => {
+    try {
+        res.sendFile(join(dir_name, "public", "admin.html")); // Servir index.html estático
     } catch (err) {
         console.error(err);
         res.status(500).send("Error al servir el archivo.");
