@@ -3,9 +3,9 @@ import sql from 'mssql';
 export async function openSQL() {
   try {
     const config = {
-      user: '',
-      password: '',
-      server: '', 
+      user: 'usuariopyrelamp',
+      password: 'E9lsd104?',
+      server: 'tiusr11pl.cuc-carrera-ti.ac.cr', 
       database: '',
       options: {
         encrypt: true, // Si estás usando una conexión cifrada
