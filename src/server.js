@@ -3,7 +3,7 @@ import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { openSQL } from "./coneccion-sql.js";
 import sql from "mssql";
-import filtrarPDFsPorPalabra from "./leer-pdf.js"
+//import {filtrarPDFsPorPalabras} from "./leer-pdf.js"
 
 const app = express();
 
@@ -19,6 +19,8 @@ app.use(express.static(join(dir_name, "public")));
 // Ruta para servir el archivo index.html
 app.get("/", async (req, res) => {
     try {
+        const connect = await openSQL()
+       // console.log(connect)
         res.sendFile(join(dir_name, "public", "index.html")); // Servir index.html estático
     } catch (err) {
         console.error(err);
@@ -28,6 +30,9 @@ app.get("/", async (req, res) => {
 
 app.get("/login", async (req, res) => {
     try {
+
+        const connect = await openSQL()
+       //console.log(connect)
         res.sendFile(join(dir_name, "public", "login.html")); // Servir index.html estático
     } catch (err) {
         console.error(err);

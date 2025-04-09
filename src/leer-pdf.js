@@ -3,13 +3,14 @@ import { join } from 'path';
 import pdfParse from 'pdf-parse';
 
 // Carpeta donde están los PDFs
-const carpetaPDFs = join(__dirname, 'uploads');
 
 // Palabras clave a buscar (puedes modificarlas)
-const palabrasClave = ['contrato', 'confidencialidad', 'pago'];
+//const palabrasClave = ['contrato', 'confidencialidad', 'pago'];
 
 // Función para leer todos los PDFs y buscar las palabras clave
-export async function filtrarPDFsPorPalabras(carpeta, palabras) {
+export async function filtrarPDFsPorPalabras( palabras) {
+  const carpetaPDFs = join(__dirname, 'uploads');
+  console.log(carpetaPDFs)
   const archivos = readdirSync(carpeta).filter(file => file.endsWith('.pdf'));
   const resultados = [];
 
