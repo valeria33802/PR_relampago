@@ -6,7 +6,7 @@ export async function openSQL() {
       user: 'usuariopyrelamp',
       password: 'E9lsd104?',
       server: 'tiusr11pl.cuc-carrera-ti.ac.cr', 
-      database: '',
+      database: 'tiusr12pl_sqlcoral',
       options: {
         encrypt: true, // Si estás usando una conexión cifrada
         trustServerCertificate: true, // Si tienes problemas con certificados
