@@ -1,0 +1,511 @@
+/**********************************************
+  1) RESET BÁSICO Y FUENTE
+**********************************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #333;
+}
+
+/**********************************************
+  2) ENCABEZADO Y NAVEGACIÓN
+**********************************************/
+header {
+  background-color: #fff; /* Fondo blanco */
+  padding: 10px 0;
+}
+
+.navbar {
+  /* Combina ambos estilos (centrado y padding interno) */
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-left ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-left a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-left a:hover {
+  color: #666;
+}
+
+/* Ejemplo si quieres que el primer enlace sea rosa */
+.nav-left li a:first-child {
+  color: #C81B73;
+}
+
+.nav-right a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.nav-right a:hover {
+  color: #666;
+}
+
+/* Link especial para login (opcional) */
+.login-link {
+  text-decoration: none;
+  color: #C81B73;
+  font-weight: 500;
+}
+
+.login-link:hover {
+  opacity: 0.7;
+}
+
+/* Divisor debajo de la nav (opcional) */
+.nav-divider {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 0;
+}
+
+/**********************************************
+  3) SECCIÓN PRINCIPAL (HERO)
+**********************************************/
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  /* Mitad superior blanco, mitad inferior negro */
+  background: linear-gradient(to bottom, #fff 50%, #000 50%);
+  padding: 2rem 0;
+}
+
+/* Portada del libro (Hero) */
+.book-cover-container {
+  z-index: 2; /* Para superponer la imagen al gradiente */
+  margin-bottom: 2rem;
+}
+
+/* Si deseas otro estilo para la portada principal, usa .hero-book-cover */
+.hero-book-cover {
+  width: 300px;
+  max-width: 90%;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contenedor de la cita en la parte negra */
+.quote-container {
+  background-color: #000;
+  width: 100%;
+  padding: 3rem 1rem;
+  position: relative;
+  color: #fff;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+}
+
+/* Botón de "Catálogo" */
+.catalog-btn {
+  background-color: #fff;
+  color: #000;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.catalog-btn:hover {
+  background-color: #f0f0f0;
+}
+
+/**********************************************
+  4) PIE DE PÁGINA
+**********************************************/
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 0.9rem;
+}
+
+/**********************************************
+  5) BÚSQUEDA
+**********************************************/
+.search-container {
+  position: relative;
+  width: 300px; /* Ajusta según tu diseño */
+  margin: 0 auto 2rem; /* Centrado + separación inferior */
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.5rem 2.5rem 0.5rem 1rem; /* Espacio para ícono */
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  font-size: 1rem;
+  outline: none;
+}
+
+.search-input::placeholder {
+  color: #999;
+}
+
+/* Botón con ícono de lupa (reemplaza el background si tienes imagen) */
+.search-button {
+  position: absolute;
+  right: 0.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  border: none;
+  /* background: url('ruta/a/icono_lupa.png') no-repeat center center; */
+  background-size: 16px 16px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.search-button:hover {
+  opacity: 1;
+}
+
+/**********************************************
+  6) TÍTULO DE SECCIÓN
+**********************************************/
+.section-title {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #C81B73;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative;
+}
+
+.section-title::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 50%;
+  background-color: #C81B73;
+  margin: 0.5rem auto 0;
+}
+
+/**********************************************
+  7) SECCIÓN DE LIBROS
+**********************************************/
+.books-section {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.book-item {
+  text-align: center;
+  max-width: 150px;
+}
+
+/* Portadas de libros (listado general) */
+.book-cover {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.book-title {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  color: #555;
+  font-weight: normal;
+}
+
+/**********************************************
+  8) SECCIÓN "SOBRE NOSOTROS" (ACERCA DE)
+**********************************************/
+.about-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 2rem 2rem;
+}
+
+.about-left {
+  flex: 1;
+}
+
+.about-right {
+  flex: 1;
+  text-align: right;
+}
+
+.about-title {
+  font-size: 3rem;
+  font-family: "Times New Roman", serif; /* O la que prefieras */
+  font-weight: normal;
+  line-height: 1.1;
+}
+
+/* Subrayado en el texto (azul por defecto) */
+.underline {
+  display: inline-block;
+  position: relative;
+}
+
+.underline::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #1790C6;
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+}
+
+.about-right p {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+/**********************************************
+  9) SECCIÓN "ADMIN"
+**********************************************/
+.admin-label {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  font-size: 0.9rem;
+  color: #000;
+  font-weight: 600;
+}
+
+/**********************************************
+  10) CABECERA + BOTÓN "AGREGAR LIBRO"
+**********************************************/
+.pdfs-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem auto;
+}
+
+.pdfs-header h2 {
+  font-size: 1.5rem;
+  color: #C81B73;
+  margin: 0;
+}
+
+/**********************************************
+  11) BOTÓN "AGREGAR LIBRO"
+**********************************************/
+.add-book-btn {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.add-book-btn:hover {
+  background-color: #f2f2f2;
+}
+
+/**********************************************
+  12) BOTÓN "ELIMINAR"
+**********************************************/
+.delete-btn {
+  margin-top: 0.5rem;
+  background-color: #C81B73;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.delete-btn:hover {
+  background-color: #b11766;
+}
+
+/**********************************************
+  13) BOTÓN PARA ABRIR EL MODAL (Opcional)
+**********************************************/
+#openModalBtn {
+  padding: 0.6rem 1.2rem;
+  background-color: #C81B73;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+#openModalBtn:hover {
+  background-color: #b11766;
+}
+
+/**********************************************
+  14) MODALES (LOGIN / REGISTRO, ETC.)
+**********************************************/
+.modal {
+  display: none; /* Oculto por defecto */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Mostrar modal al agregar la clase .show */
+.modal.show {
+  display: block;
+}
+
+/* Fondo semitransparente detrás del contenido */
+.modal-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  position: relative;
+  background-color: #fff;
+  width: 400px;
+  max-width: 90%;
+  margin: 10% auto; /* Centra vertical/horizontal */
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Cabecera del modal */
+.modal-header {
+  background-color: #000; /* Fondo negro */
+  color: #fff;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.modal-title {
+  color: #C81B73; /* Título en rosa */
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+/* Botón "X" para cerrar */
+.close-btn {
+  position: absolute;
+  right: 1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #fff;
+}
+
+/* Cuerpo del modal */
+.modal-body {
+  padding: 2rem;
+}
+
+.modal-body form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* Espacio entre labels e inputs */
+}
+
+.modal-body label {
+  font-weight: bold;
+}
+
+.modal-body input[type="text"],
+.modal-body input[type="password"],
+.modal-body input[type="email"] {
+  padding: 0.6rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-radius: 4px;
+}
+
+/* Fila de botones dentro del modal (ej. "Registrarse" / "Iniciar Sesión") */
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+/**********************************************
+  15) ESTILOS PARA BOTONES EN EL MODAL
+**********************************************/
+/* Botón "Registrarse" (blanco con borde) */
+.btn-register {
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #000;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn-register:hover {
+  background-color: #f7f7f7;
+}
+
+/* Botón "Iniciar Sesión" (rosa sólido) */
+.btn-login {
+  background-color: #C81B73;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-login:hover {
+  background-color: #b11766;
+}

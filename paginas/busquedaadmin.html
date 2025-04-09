@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>PDFs Disponibles - Admin</title>
+  <link rel="stylesheet" href="./estilo/style.css" />
+</head>
+<body>
+
+  <!-- MODAL AGREGAR PDF -->
+<div id="addPdfModal" class="modal">
+  <div class="modal-overlay"></div>
+  <div class="modal-content">
+    <!-- Encabezado del modal -->
+    <div class="modal-header">
+      <h2 class="modal-title">Agregar PDF</h2>
+      <span class="close-btn" id="closeAddPdfModalBtn">&times;</span>
+    </div>
+
+    <!-- Cuerpo del modal -->
+    <div class="modal-body">
+      <form>
+        <!-- Nombre del PDF -->
+        <label for="pdf-name">Nombre del PDF</label>
+        <input
+          type="text"
+          id="pdf-name"
+          placeholder="Ingrese el nombre del libro"
+          required
+        />
+
+        <!-- Adjuntar PDF -->
+        <label for="pdf-file">Adjuntar PDF</label>
+        <!-- Ícono de paperclip con input[type=file] oculto o inline -->
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <input
+            type="file"
+            id="pdf-file"
+            accept="application/pdf"
+            style="flex: 1;"
+            required
+          />
+          <!-- Ícono (opcional) -->
+          <i class="bi bi-paperclip" style="font-size: 1.5rem;"></i>
+        </div>
+
+        <!-- Adjuntar imagen -->
+        <label for="pdf-image">Adjuntar imagen</label>
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <input
+            type="file"
+            id="pdf-image"
+            accept="image/*"
+            style="flex: 1;"
+            required
+          />
+          <!-- Ícono de imagen -->
+          <i class="bi bi-image" style="font-size: 1.5rem;"></i>
+        </div>
+
+        <!-- Botón de Agregar -->
+        <button type="submit" class="btn-login" style="margin-top: 1rem;">
+          Agregar
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+
+  
+  <!-- Texto "Administrador" en la esquina superior derecha -->
+  <span class="admin-label">Administrador</span>
+  
+  <!-- Contenedor de búsqueda (puedes mantener tu código actual) -->
+  <div class="search-container">
+    <input 
+      type="search" 
+      class="search-input" 
+      placeholder="Buscar..."
+    />
+    <button class="search-button"></button>
+  </div>
+
+  <!-- Título + Botón de Agregar libro -->
+  <div class="pdfs-header">
+    <h2>PDF's disponibles</h2>
+    <button class="add-book-btn">Agregar libro</button>
+  </div>
+
+  <!-- Sección de libros (similar a tu código anterior) -->
+  <section class="books-section">
+    <!-- Libro 1 -->
+    <article class="book-item">
+      <img 
+        src="ruta/a/imagen_simonedebeauvoir.jpg" 
+        alt="Portada del libro El segundo sexo" 
+        class="book-cover"
+      />
+      <button class="delete-btn">Eliminar</button>
+    </article>
+    
+    <!-- Libro 2 -->
+    <article class="book-item">
+      <img 
+        src="ruta/a/imagen_chespirito.jpg" 
+        alt="Portada del libro Sin querer queriendo" 
+        class="book-cover"
+      />
+      <button class="delete-btn">Eliminar</button>
+    </article>
+
+    <!-- Libro 3 -->
+    <article class="book-item">
+      <img 
+        src="ruta/a/imagen_hermanosgrimm.jpg" 
+        alt="Portada del libro Cuentos de los hermanos Grimm"
+        class="book-cover"
+      />
+      <button class="delete-btn">Eliminar</button>
+    </article>
+  </section>
+
+  <script>
+    // Selecciona el botón "Agregar libro" de tu HTML
+    const addBookBtn = document.querySelector('.add-book-btn');
+    
+    // Selecciona el modal "Agregar PDF"
+    const addPdfModal = document.getElementById('addPdfModal');
+    const closeAddPdfModalBtn = document.getElementById('closeAddPdfModalBtn');
+  
+    // Al hacer clic en "Agregar libro", abrimos el modal
+    addBookBtn.addEventListener('click', () => {
+      addPdfModal.classList.add('show');
+    });
+  
+    // Al hacer clic en la "X" del modal, lo cerramos
+    closeAddPdfModalBtn.addEventListener('click', () => {
+      addPdfModal.classList.remove('show');
+    });
+  
+    // Cerrar modal al hacer clic en la superposición oscura
+    window.addEventListener('click', (e) => {
+      if (e.target.classList.contains('modal-overlay')) {
+        addPdfModal.classList.remove('show');
+      }
+    });
+  </script>
+  
+
+</body>
+</html>
