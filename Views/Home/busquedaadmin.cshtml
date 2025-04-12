@@ -1,0 +1,120 @@
+@model List<Proyecto_relampago.Models.PDF>
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDFs Disponibles - Admin</title>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+
+    <div class="search-container">
+        <form action="@Url.Action("Buscar", "Home")" method="get">
+            <input type="search" name="termino" class="search-input" placeholder="Buscar..." aria-label="Buscar en la biblioteca" />
+            <button type="submit" class="search-button" aria-label="Buscar"></button>
+        </form>
+    </div>
+    <!-- MODAL AGREGAR PDF -->
+    <div id="addPdfModal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <!-- Encabezado del modal -->
+            <div class="modal-header">
+                <h2 class="modal-title">Agregar PDF</h2>
+                <span class="close-btn" id="closeAddPdfModalBtn">&times;</span>
+            </div>
+
+            <!-- Cuerpo del modal -->
+            <div class="modal-body">
+                <form action="/PDF/Agregar" method="post" enctype="multipart/form-data">
+                    <label for="pdf-name">Nombre del PDF</label>
+                    <input type="text" name="Nombre" id="pdf-name" required />
+
+                    <label for="pdf-file">Adjuntar PDF</label>
+                    <input type="file" name="ArchivoPDF" id="pdf-file" accept="application/pdf" required />
+
+                    <label for="pdf-image">Adjuntar imagen</label>
+                    <input type="file" name="Imagen" id="pdf-image" accept="image/*" required />
+
+                    <button type="submit" class="btn-login" style="margin-top: 1rem;">
+                        Agregar
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Texto "Administrador" en la esquina superior derecha -->
+    <span class="admin-label">Administrador</span>
+
+
+
+    <!-- Título + Botón de Agregar libro -->
+    <div class="pdfs-header">
+        <h2>PDF's disponibles</h2>
+        <button class="add-book-btn">Agregar libro</button>
+    </div>
+
+    <!-- Sección de libros (similar a tu código anterior) -->
+
+
+    <section class="books-section">
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <article class="book-item">
+                    <img src="@Url.Content(item.RutaImagen)" alt="Portada del libro @item.Nombre" class="book-cover" />
+                    <p class="book-title">@item.Nombre</p>
+                    <a class="delete-btn" href="@Url.Action("Eliminar", "PDF", new { id = item.Id })"
+                       onclick="return confirm('¿Estás seguro de que deseas eliminar este PDF?');">Eliminar</a>
+
+                </article>
+            }
+        }
+        else
+        {
+            <p style="color:red;text-align:center;">No se encontraron PDFs disponibles.</p>
+        }
+
+    </section>
+
+
+    <script>
+        // Selecciona el botón "Agregar libro" de tu HTML
+        const addBookBtn = document.querySelector('.add-book-btn');
+
+        // Selecciona el modal "Agregar PDF"
+        const addPdfModal = document.getElementById('addPdfModal');
+        const closeAddPdfModalBtn = document.getElementById('closeAddPdfModalBtn');
+
+        // Al hacer clic en "Agregar libro", abrimos el modal
+        addBookBtn.addEventListener('click', () => {
+            addPdfModal.classList.add('show');
+        });
+
+        // Al hacer clic en la "X" del modal, lo cerramos
+        closeAddPdfModalBtn.addEventListener('click', () => {
+            addPdfModal.classList.remove('show');
+        });
+
+        // Cerrar modal al hacer clic en la superposición oscura
+        window.addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) {
+                addPdfModal.classList.remove('show');
+            }
+        });
+    </script>
+    <script>
+
+    </script>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,50 @@
+﻿@model List<Proyecto_relampago.Models.PdfSearchResult>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Resultados de búsqueda</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <!-- Barra de búsqueda -->
+    <div class="search-container">
+        
+        <form action="@Url.Action("Buscar", "PDF")" method="get">
+            <input type="search" name="termino" class="search-input" placeholder="Buscar..." aria-label="Buscar en la biblioteca" />
+            <button type="submit" class="search-button" aria-label="Buscar"></button>
+        </form>
+    </div>
+
+    <h2 class="section-title">Resultados de la Búsqueda</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <section class="books-section">
+            @foreach (var item in Model)
+            {
+                <article class="book-item">
+                    <img src="@Url.Content(item.RutaImagen)" alt="Portada de @item.Nombre" class="book-cover" />
+                    <h3 class="book-title">@item.Nombre</h3>
+
+                    <!-- Mostrar snippet (fragmento de texto con la palabra buscada) -->
+                    @if (!string.IsNullOrEmpty(item.Snippet))
+                    {
+                        <p style="margin-top: 0.5rem;">@item.Snippet ...</p>
+                    }
+
+                    <!-- Enlace al PDF (abre en nueva pestaña) -->
+                    <a href="@Url.Content(item.RutaPDF)" target="_blank"
+                       style="display: inline-block; margin-top: 0.5rem; text-decoration: underline;">
+                        Ver PDF
+                    </a>
+                </article>
+            }
+        </section>
+    }
+    else
+    {
+        <p style="text-align:center; color:red;">No se encontraron resultados para tu búsqueda.</p>
+    }
+</body>
+</html>

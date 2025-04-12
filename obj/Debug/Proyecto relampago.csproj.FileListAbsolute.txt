@@ -1,0 +1,362 @@
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Proyecto relampago.dll.config
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Proyecto relampago.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Proyecto relampago.pdb
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csc.exe
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csc.exe.config
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csc.rsp
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csi.exe
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csi.exe.config
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\csi.rsp
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.AppContext.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Console.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Net.Http.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\vbc.exe
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\vbc.exe.config
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\vbc.rsp
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Antlr3.Runtime.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Newtonsoft.Json.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Helpers.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Mvc.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Optimization.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Razor.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\WebGrease.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Helpers.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Mvc.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Optimization.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.Razor.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Newtonsoft.Json.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Antlr3.Runtime.pdb
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.Razor.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\obj\Debug\Proyecto relampago.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\obj\Debug\Proyecto relampago.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\obj\Debug\Proyecto.8CCADFDA.Up2Date
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\obj\Debug\Proyecto relampago.dll
+C:\Users\Andrey\Desktop\p. relampago\Proyecto relampago\obj\Debug\Proyecto relampago.pdb
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Proyecto relampago.dll.config
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Proyecto relampago.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Proyecto relampago.pdb
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csc.exe
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csc.exe.config
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csc.rsp
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csi.exe
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csi.exe.config
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\csi.rsp
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.AppContext.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Console.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Net.Http.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.ValueTuple.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\vbc.exe
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\vbc.exe.config
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\vbc.rsp
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Antlr3.Runtime.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Newtonsoft.Json.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Helpers.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Mvc.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Optimization.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Razor.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\WebGrease.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Helpers.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Mvc.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Optimization.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.Razor.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Newtonsoft.Json.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Antlr3.Runtime.pdb
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.Razor.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.AssemblyReference.cache
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.CoreCompileInputs.cache
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\obj\Debug\Proyecto.8CCADFDA.Up2Date
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.dll
+C:\Users\anala\Downloads\OneDrive_2025-04-11\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.pdb
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Proyecto relampago.dll.config
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Proyecto relampago.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Proyecto relampago.pdb
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csc.exe
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csc.exe.config
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csc.rsp
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csi.exe
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csi.exe.config
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\csi.rsp
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.AppContext.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Console.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Net.Http.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Net.Sockets.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.ValueTuple.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\vbc.exe
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\vbc.exe.config
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\vbc.rsp
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Antlr3.Runtime.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\BouncyCastle.Cryptography.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\itextsharp.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Newtonsoft.Json.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Helpers.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Mvc.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Optimization.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Razor.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\WebGrease.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\BouncyCastle.Cryptography.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\itextsharp.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Helpers.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Mvc.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Optimization.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.Razor.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Newtonsoft.Json.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Antlr3.Runtime.pdb
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.Helpers.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.Mvc.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.Razor.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.WebPages.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.AssemblyReference.cache
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.CoreCompileInputs.cache
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\obj\Debug\Proyecto.8CCADFDA.Up2Date
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.dll
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.pdb
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Controllers\HomeController.cs
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Controllers\PDFController.cs
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Models\PDF.cs
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Models\PdfSearchResult.cs
+C:\Proyecto relampago FinalAna\Proyecto relampago con html y css\bin\Models\Usuario.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Controllers\HomeController.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Controllers\PDFController.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Models\PDF.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Models\PdfSearchResult.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Models\Usuario.cs
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Proyecto relampago.dll.config
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Proyecto relampago.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Proyecto relampago.pdb
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csc.exe
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csc.exe.config
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csc.rsp
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csi.exe
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csi.exe.config
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\csi.rsp
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.AppContext.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Console.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Net.Http.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Net.Sockets.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.ValueTuple.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\vbc.exe
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\vbc.exe.config
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\vbc.rsp
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Antlr3.Runtime.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\BouncyCastle.Cryptography.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\itextsharp.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Newtonsoft.Json.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Helpers.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Mvc.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Optimization.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Razor.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\WebGrease.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\BouncyCastle.Cryptography.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\itextsharp.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Helpers.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Mvc.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Optimization.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.Razor.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.Deployment.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\System.Web.WebPages.Razor.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Newtonsoft.Json.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Antlr3.Runtime.pdb
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.Helpers.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.Mvc.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.Razor.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.WebPages.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.AssemblyReference.cache
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.csproj.CoreCompileInputs.cache
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\obj\Debug\Proyecto.8CCADFDA.Up2Date
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.dll
+C:\Proyecto relampago FinalVale\Proyecto relampago con html y css\obj\Debug\Proyecto relampago.pdb

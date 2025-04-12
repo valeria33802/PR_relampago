@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDFs Disponibles</title>
+    <!-- Enlaza tu hoja de estilos -->
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+
+    <!-- Barra de búsqueda -->
+    <div class="search-container">
+        <form action="@Url.Action("Buscar", "Home")" method="get">
+            <input type="search" name="termino" class="search-input" placeholder="Buscar..." aria-label="Buscar en la biblioteca" />
+            <button type="submit" class="search-button" aria-label="Buscar"></button>
+        </form>
+    </div>
+
+    <!-- Título principal -->
+    <h2 class="section-title">PDF's disponibles</h2>
+
+    <!-- Sección de libros -->
+    <section id="books-section" class="books-section">
+        <!-- Libro 1 -->
+        <!-- <article class="book-item">
+          <img src="ruta/a/imagen_simonedebeauvoir.jpg" alt="Portada del libro El segundo sexo" class="book-cover" />
+          <h3 class="book-title">El segundo sexo</h3>
+        </article> -->
+        <!-- Libro 2 -->
+        <!-- <article class="book-item">
+          <img src="ruta/a/imagen_chespirito.jpg" alt="Portada del libro Sin querer queriendo" class="book-cover" />
+          <h3 class="book-title">Sin querer queriendo</h3>
+        </article> -->
+        <!-- Libro 3 -->
+        <!-- <article class="book-item">
+          <img src="ruta/a/imagen_hermanosgrimm.jpg" alt="Portada del libro Cuentos de los hermanos Grimm"
+            class="book-cover" />
+          <h3 class="book-title">Cuentos de los hermanos Grimm</h3>
+        </article> -->
+
+    </section>
+
+
+    <!--  script para cargar los pdf's de la base de datos -->>
+    <script>
+    document.addEventListener("DOMContentLoaded", async () => {
+      try {
+        const response = await fetch('/rutas-pdf');
+        const data = await response.json();
+        console.log('Datos recibidos:', data);
+        const books = document.getElementById("books-section")
+        data.forEach(ruta => {
+          books.innerHTML += `<article class="book-item">
+                                <img src="${ruta.rutaimg}" alt="Portada de ${ruta.rutanombre}" class="book-cover" />
+                                <h3 class="book-title">${ruta.rutanombre}</h3>
+                              </article>`
+        });
+      } catch (err) {
+        console.error('Error en fetch:', err);
+      }
+    });
+    </script>
+
+</body>
+
+</html>
